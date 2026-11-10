@@ -1,0 +1,17 @@
+{
+  "name": "DAWAM · Persiapan UAS",
+  "short_name": "DAWAM",
+  "description": "Jadwal belajar, checklist harian, dan hitung mundur UAS.",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#231e4a",
+  "theme_color": "#2a2150",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
